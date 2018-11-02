@@ -1,0 +1,6 @@
+[FORMAT]
+indent-string='  '
+indent-after-paren=2
+
+[MESSAGES CONTROL]
+disable=C0111
