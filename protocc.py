@@ -7,7 +7,7 @@ import subprocess
 
 PROTOC_VERSION = '3.6.1'
 PROTOC_GEN_GO_VERSION = 'v1.2.0'
-GO_VERSION = '1.11'
+GO_VERSION = '1.12'
 
 def protoc_install_cmds():
   return [
